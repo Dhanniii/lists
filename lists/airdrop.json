@@ -104,5 +104,14 @@
         "description": "Guild"
       }
     ]
+  },
+  "Privasea": {
+    "status": "Node",
+    "sources": [
+      {
+        "link": "https://deepsea-beta.privasea.ai/overview",
+        "description": "Register"
+      }
+    ]
   }
 }
