@@ -1,1 +1,9 @@
-{}
+{
+  "New Testnet : BeraTrax": {
+    "status": "Testnet",
+    "sources": [
+      "https://bartio.faucet.berachain.com/",
+      "https://testnet.beratrax.com/CopularBera"
+    ]
+  }
+}
