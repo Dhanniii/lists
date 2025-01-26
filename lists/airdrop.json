@@ -122,5 +122,14 @@
         "description": "Register"
       }
     ]
+  },
+  "Mercle": {
+    "status": "waitlist",
+    "sources": [
+      {
+        "link": "https://waitlist.mercle.ai/",
+        "description": "Register"
+      }
+    ]
   }
 }
