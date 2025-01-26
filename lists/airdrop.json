@@ -29,5 +29,22 @@
         "description": "Register"
       }
     ]
+  },
+  "Nebula": {
+    "status": "Testnet",
+    "sources": [
+      {
+        "link": "https://app.nibiru.fi/faucet",
+        "description": "Faucet"
+      },
+      {
+        "link": "https://app.nebulalending.io/",
+        "description": "Register"
+      },
+      {
+        "link": "https://app.galxe.com/quest/9R2Ah463kAswDpy7B7Y4ZJ/GC2Swtp7QR",
+        "description": "Claim Galxe"
+      }
+    ]
   }
 }
