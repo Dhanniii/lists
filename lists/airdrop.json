@@ -113,5 +113,14 @@
         "description": "Register"
       }
     ]
+  },
+  "Gaianet": {
+    "status": "Node",
+    "sources": [
+      {
+        "link": "https://www.gaianet.ai/setting/nodes",
+        "description": "Register"
+      }
+    ]
   }
 }
