@@ -11,5 +11,14 @@
         "description": "Register"
       }
     ]
+  },
+  "Voltix AI": {
+    "status": "depin airdrop",
+    "sources": [
+      {
+        "link": "https://voltix.ai/login",
+        "description": "Register"
+      }
+    ]
   }
 }
