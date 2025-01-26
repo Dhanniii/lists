@@ -46,5 +46,14 @@
         "description": "Claim Galxe"
       }
     ]
+  },
+  "Printr": {
+    "status": "Waitlist",
+    "sources": [
+      {
+        "link": "https://printr.money/",
+        "description": "Connect Wallet"
+      }
+    ]
   }
 }
