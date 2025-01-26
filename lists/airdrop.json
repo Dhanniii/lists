@@ -1,1 +1,15 @@
-{}
+{
+  "BeraTrax": {
+    "status": "Testnet",
+    "sources": [
+      {
+        "link": "https://bartio.faucet.berachain.com/",
+        "description": "Faucet"
+      },
+      {
+        "link": "https://testnet.beratrax.com/CopularBera",
+        "description": "Register"
+      }
+    ]
+  }
+}
