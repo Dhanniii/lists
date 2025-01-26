@@ -73,5 +73,14 @@
         "description": "Register"
       }
     ]
+  },
+  "Sentinals": {
+    "status": "waitlist",
+    "sources": [
+      {
+        "link": "Register: https://www.sentinals.xyz/",
+        "description": "Register"
+      }
+    ]
   }
 }
