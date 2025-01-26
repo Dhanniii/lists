@@ -82,5 +82,14 @@
         "description": "Register"
       }
     ]
+  },
+  "Teko Finance": {
+    "status": "waitlist",
+    "sources": [
+      {
+        "link": "https://teko.finance/waitlist?ref_id=DBR6LTYKF",
+        "description": "Register"
+      }
+    ]
   }
 }
