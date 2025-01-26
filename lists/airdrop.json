@@ -55,5 +55,14 @@
         "description": "Connect Wallet"
       }
     ]
+  },
+  "Haust Network": {
+    "status": "waitlist",
+    "sources": [
+      {
+        "link": "https://whitelist.haust.network/",
+        "description": "Register"
+      }
+    ]
   }
 }
